@@ -1,0 +1,7 @@
+apiVersion: cache.my.domain/v1
+kind: Testing
+metadata:
+  name: testing-sample
+spec:
+  # Add fields here
+  foo: bar
